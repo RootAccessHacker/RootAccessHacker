@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image]('https://github.com/RootAccessHacker/RootAccessHacker/blob/master/cerberus.gif')
+![image](https://github.com/RootAccessHacker/RootAccessHacker/blob/bb4cf6b8b610c8bb9dffb76ed8ea8ceed453b956/cerberus.gif)
 <!--
 **RootAccessHacker/RootAccessHacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
