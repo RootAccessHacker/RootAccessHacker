@@ -1,5 +1,5 @@
 
-![image](https://github.com/RootAccessHacker/RootAccessHacker/blob/39ee6ced9b64bd940ca4db9c4da71cff4f4fb430/crb.gif)
+<!-- ![image](https://github.com/RootAccessHacker/RootAccessHacker/blob/39ee6ced9b64bd940ca4db9c4da71cff4f4fb430/crb.gif) -->
 <!--
 ### Hi there 👋
 
